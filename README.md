@@ -1,5 +1,5 @@
 # WARP GENERATOR
-![Screenshot_2024-10-03_at_22 25 49-removebg-preview](https://github.com/user-attachments/assets/0c0ef308-a43a-4480-90b8-882fc83f6a11)
+![Screenshot_2024-10-03_at_22 25 49-removebg-preview](https://github.com/user-attachments/assets/d8bc6edc-449c-46a9-ae62-a9f29d27a5b7)
 
 Enhancing Scalar and PSI-Wave Transmissions
 
