@@ -1,4 +1,4 @@
-![Screenshot_2024-10-03_at_22 25 49-removebg-preview](https://github.com/user-attachments/assets/a55e537c-3655-4631-8416-748af8194a5f)
+![XX](https://github.com/user-attachments/assets/a55f1827-6d9f-42ea-bbaf-265be8d2d19f)
 
 # WARP GENERATOR Enhancing Scalar and PSI-Wave Transmissions!
 ## Warp Drive Unit: Energy Exchange Mechanisms and Proof of Application
