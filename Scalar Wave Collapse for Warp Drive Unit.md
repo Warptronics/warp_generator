@@ -1,5 +1,5 @@
 
-#![HA-S_Circuit__1_-removebg-preview](https://github.com/user-attachments/assets/fb5c3c43-f512-4db0-98ea-05b3569988a0)
+![HA-S_Circuit__1_-removebg-preview](https://github.com/user-attachments/assets/fb5c3c43-f512-4db0-98ea-05b3569988a0)
 
 Oscillator Art - NTS-2: Sigil Portal and Scalar Wave Collapse for Warp Drive Unit
 
