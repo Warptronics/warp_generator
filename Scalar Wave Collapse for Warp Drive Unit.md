@@ -1,6 +1,7 @@
 
 #![HA-S_Circuit__1_-removebg-preview](https://github.com/user-attachments/assets/fb5c3c43-f512-4db0-98ea-05b3569988a0)
- Oscillator Art - NTS-2: Sigil Portal and Scalar Wave Collapse for Warp Drive Unit
+
+Oscillator Art - NTS-2: Sigil Portal and Scalar Wave Collapse for Warp Drive Unit
 
 The **Oscillator Art - NTS-2** brings advanced visualization capabilities to your **Warp Drive Unit** by integrating powerful waveform generation and fractal geometry with its **Lissajous Mode**. This mode allows you to transform scalar waves into **sigilistic fractal geometric shapes**, aligning with the principles of energetic manipulation and creative intention.
 
