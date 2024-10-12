@@ -1,6 +1,5 @@
 ![Screenshot_2024-10-03_at_22 25 49-removebg-preview](https://github.com/user-attachments/assets/2026f974-011e-46dd-8511-9defc5201987)
-# Warp S![wyeaxfhfvkv7hafv9aj8-removebg-preview](https://github.com/user-attachments/assets/32f4de03-77f5-42a5-82a6-8213efd646c2)
-calar-X Amplifier: Scalar Modded Coil Integration for Warp Drive Unit with MWO
+# Warp Scalar-X Amplifier: Scalar Modded Coil Integration for Warp Drive Unit with MWO
 
 ## Overview
 
